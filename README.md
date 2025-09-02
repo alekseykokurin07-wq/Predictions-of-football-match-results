@@ -10,5 +10,7 @@
 
 ## Использованные данные
 База данных: https://www.kaggle.com/datasets/hugomathien/soccer/data
+
 Match.csv - данные о футбольных матчах
+
 Team_Attributes.csv - атрибуты футбольных команд
